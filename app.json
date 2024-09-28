@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "hot-blue-cereal",
+    "slug": "snack-ac1b0757-e851-414a-82a0-d6131188c14b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "../assets/image/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "../assets/image/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "../assets/image/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.lyquocminh.snackac1b0757e851414a82a0d6131188c14b"
+    },
+    "web": {
+      "favicon": "../assets/image/favicon.png"
+    }
+  }
+}
